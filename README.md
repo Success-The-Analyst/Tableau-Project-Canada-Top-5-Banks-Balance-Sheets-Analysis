@@ -18,7 +18,7 @@ The goal of this project is to visualize the financial metrics of the top banks 
 - **Total Equity**: Breakdown of each bank's equity distribution, providing a snapshot of each institution's financial position.
 
 ## Data Source
-- The data used in this project includes the balance sheets of the top 5 banks in Canada for a specific period. This data is visualized using the Tableau workbook file (`CanadaTop5BanksBalanceSheets.twbx`).
+- The data used in this project includes the balance sheets of the top 5 banks in Canada for a specific period. This data is visualized using the Tableau workbook file (`Canada Top 5 Banks Balance Sheets Analysis.twbx`).
 
 ## Features
 - **Assets vs Liabilities**: Interactive bar charts and line graphs comparing assets and liabilities for each bank.
@@ -29,7 +29,7 @@ The goal of this project is to visualize the financial metrics of the top banks 
 - **Tableau**: For data visualization and creating interactive dashboards.
 
 ## How to Use
-1. Open the provided Tableau Workbook file (`CanadaTop5BanksBalanceSheets.twbx`).
+1. Open the provided Tableau Workbook file (`Canada Top 5 Banks Balance Sheets Analysis.twbx`).
 2. Interact with the dashboards to compare different banks' financial metrics.
 3. Use the various interactive elements to explore assets, liabilities, and equity breakdowns.
 4. Hover over the charts for more detailed data on each financial indicator.
